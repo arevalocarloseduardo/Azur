@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "889301457538",
+    "firebase_url": "https://puntoapplication.firebaseio.com",
+    "project_id": "puntoapplication",
+    "storage_bucket": "puntoapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889301457538:android:e5de25d22df1bcab",
+        "android_client_info": {
+          "package_name": "com.bitstudio.azur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889301457538-dqbs73pmpsn2d5v7bqnb5mmeakfjfd88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADd3z8eM1-QasRI9I1Za-DN66ubLv5was"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889301457538:android:0d0ebbd79c1d9a7c",
+        "android_client_info": {
+          "package_name": "com.bitstudio.azurapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889301457538-dqbs73pmpsn2d5v7bqnb5mmeakfjfd88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADd3z8eM1-QasRI9I1Za-DN66ubLv5was"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
