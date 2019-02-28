@@ -33,11 +33,13 @@ class _PrincipalPageState extends State<PrincipalPage> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "hola",
+      title: "Azur",
       home: Scaffold(
        // drawer: Drawer(child: Text("data"),),
     
         bottomNavigationBar: BottomNavigationBar(
+          backgroundColor: Colors.indigo[900],
+          selectedItemColor: Colors.white,
           currentIndex: currentTab,
         onTap: (int index){
           setState(() {
